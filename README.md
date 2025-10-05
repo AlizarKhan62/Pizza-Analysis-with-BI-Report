@@ -162,7 +162,7 @@ See `PIZZA_SALES_SQL_QUERIES.docx` for complete query list.
 
 ## 📸 Screenshots
 
-![Dashboard](Pizza_Analysis_Dashboard.pdf)
+![Dashboard](Dashboard.png)
 
 
 ## 🤝 Contributing
